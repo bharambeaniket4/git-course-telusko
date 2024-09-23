@@ -2,3 +2,4 @@ Added Admin service to feature1 branch
 add user
 change roles
 manager Database
+close db connection
